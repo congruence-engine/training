@@ -5,7 +5,7 @@
 This is an introductory lesson using the Library Carpentry course (https://librarycarpentry.org/lc-git/) to begin to understand and use Git/GitHub. In this lesson we use Git from the Unix Shell (it would be handy if you had attended the lesson from the first round of training). You will learn the Git repositories’ structure, how to link a local Git repository to GitHub, how to move changes between a local Git repository and a GitHub repository and the use GitHub Pages to collaborate and publish your work. We are also going to use the Software Carpentry course (https://swcarpentry.github.io/git-novice/) to learn about version control in collaborative projects.
 Instructor : Dr Anna-Maria Sichani, co-facilitator : Kaspar Beelen
 
-- teaching resources
+- <a href="https://github.com/congruence-engine/training/blob/main/resources/Intro%20to%20Git-GitHub.pdf">teaching resources</a>
 
 
 ## Machine Learning I - Principles for GLAM 

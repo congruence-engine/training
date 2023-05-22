@@ -21,4 +21,8 @@ This training will have two parts: 1)in the first part , through this Programmin
 By the end of the session you will know what the Wikidata interface looks like; how Wikidata is linked to other Wiki projects; create and develop Wikidata items yourself; add references to Wikidata; create a basic search query in Wikidata using the query language SPARQL; understand some of the tools to perform a mass import into Wikidata
 
 
-Instructors : Dr Anna-Maria Sichani, Stuart Prior (Wikimedia), co-facilitator : Kunika Kono
+Instructors : Dr Anna-Maria Sichani, Stuart Prior (Wikimedia)
+
+- <a href="https://github.com/congruence-engine/training/blob/main/resources/introLOD.pdf">teaching resources on LOD </a>
+- <a href="https://github.com/congruence-engine/training/blob/main/resources/wikidatatraining.pdf">teaching resources on Wikidata</a>
+

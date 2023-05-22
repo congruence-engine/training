@@ -24,5 +24,5 @@ By the end of the session you will know what the Wikidata interface looks like; 
 Instructors : Dr Anna-Maria Sichani, Stuart Prior (Wikimedia)
 
 - <a href="https://github.com/congruence-engine/training/blob/main/resources/introLOD.pdf">teaching resources on LOD </a>
-- <a href="https://github.com/congruence-engine/training/blob/main/resources/wikidatatraining.pdf">teaching resources on Wikidata</a>
+- <a href="https://github.com/congruence-engine/training/blob/main/resources/Wikidatatraining.pdf">teaching resources on Wikidata</a>
 

@@ -15,7 +15,7 @@ This space is used to create and maintain training material developed as part of
 
 
 
-### [Round 2 (spring 2024) - AI methods and ethics for Cultural Herirage](https://github.com/congruence-engine/training/blob/main/round_4.md)
+### [Round 2 (spring 2024) - AI methods and ethics for Cultural Heritage](https://github.com/congruence-engine/training/blob/main/round_4.md)
 
 
 Please contact annamaria.sichani@sas.ac.uk for more information on training and mutual learning opportuniies within The Congruence Engine Project.

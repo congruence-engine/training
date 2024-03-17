@@ -5,3 +5,9 @@
     **Data primer: Data management and curation for data-/AI-driven pipelines** 
     
     **Responsible Research and Ethics**
+
+
+
+Video subtitling and description with Large Language Model assistance - mutual learning session, 26th March 2024, 11-2pm , MakerSpace, SAS / hybrid
+
+James Elder, Archives Professional, BT Group

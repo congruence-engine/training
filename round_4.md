@@ -37,7 +37,9 @@ This session will outline an experimental project undertaken at BT Group Archive
 #### Instructor
 James Elder, Archives Professional, BT Group
 
+#### Slides available here
 
+#### Recording available here
 
 
 ## GenAI and copyright for Cultural Heritage

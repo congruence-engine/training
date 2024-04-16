@@ -39,7 +39,7 @@ James Elder, Archives Professional, BT Group
 
 #### Slides available here
 
-#### Recording available here
+#### Recording available <a href="https://uolonline-my.sharepoint.com/:v:/r/personal/annamaria_sichani_sas_ac_uk/Documents/Recordings/Video%20subtitling%20and%20description%20with%20Large%20Language%20Model%20assistance%20-%20CE%20mutual%20learning%20session-20240326_110531-Meeting%20Recording.mp4?csf=1&web=1&e=sTJX6W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> here</a>
 
 
 ## GenAI and copyright for Cultural Heritage

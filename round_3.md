@@ -1,4 +1,4 @@
-# CE_training Round 3 (autumn 2023) - Version Control, Linked Open Data and Machine Learning
+# CE_training Round 3 (autumn 2023) - GenAI for cultural heritage
 
 ## Showcase session , 30 October 2023, 10-11am
 This is an introductory lesson using the Library Carpentry course (https://librarycarpentry.org/lc-git/) to begin to understand and use Git/GitHub. In this lesson we use Git from the Unix Shell (it would be handy if you had attended the lesson from This showcase session aims mainly to (re)introduce the Training and Mutual Learning working group to the wider Congruence Engine team, especially to its new members. It also seeks to assess current training needs within the team, and to help better structuring our new training provision for this year.

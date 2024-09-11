@@ -1,5 +1,4 @@
-# CE_training 
-# Round 1 (autumn 2022) |  Data cleaning and structuring
+# CE_training Round 1 (autumn 2022) |  Data cleaning and structuring
 
 ## Regular Expressions - 2nd November, 9-13pm, instructor:  Kunika Kono 
 Regular expressions (often shortened to 'regex') are a sophisticated pattern matching syntax system that can boost your ability to manipulate text in bulk. Regular expressions are useful in a wide range of text and data processing tasks, such as find and replace, formatting, transforming and extracting values, and are supported by many software including Microsoft Word and OpenRefine. As part of the Congruence Engine Data Cleaning training, this session hopes to introduce regular expressions with a guided Library Carpentry lesson (https://librarycarpentry.org/lc-data-intro/). By the end of the session, the participants should have a good understanding of what regular expressions are, be familiar with the basic syntax, and have had some practice reading, writing and using regular expression patterns.

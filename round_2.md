@@ -7,7 +7,7 @@ This is an introductory lesson using the Library Carpentry course (https://libra
 #### Instructor 
 Dr Anna-Maria Sichani, co-facilitator : Kaspar Beelen
 
-- <a href="https://github.com/congruence-engine/training/blob/main/resources/Intro%20to%20Git-GitHub.pdf">teaching resources</a>
+- <a href="https://github.com/congruence-engine/training/blob/main/resources/Intro_Git_GitHub.pdf">teaching resources</a>
 
 
 ## Machine Learning I - Principles for GLAM , 3 May 2023, MakerSpace, SAS
@@ -26,6 +26,6 @@ By the end of the session you will know what the Wikidata interface looks like; 
 #### Instructors
 Dr Anna-Maria Sichani, Stuart Prior (Wikimedia)
 
-- <a href="https://github.com/congruence-engine/training/blob/main/resources/introLOD.pdf">teaching resources on LOD </a>
+- <a href="https://github.com/congruence-engine/training/blob/main/resources/Intro_LOD.pdf">teaching resources on LOD </a>
 - <a href="https://github.com/congruence-engine/training/blob/main/resources/Wikidatatraining.pdf">teaching resources on Wikidata</a>
 

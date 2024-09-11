@@ -52,5 +52,7 @@ There will be hands-on group exercises and you may find having a large screen or
  
 The session assumes no prior knowledge of Command line and there are no prerequisite readings.
 To complete this session, you will need a UNIX-like shell environment -see Setup. You will also need to download the file shell-lesson.zip from GitHub to your desktop and extract it there (once you have unzipped/extracted the file, you should end up with a folder called “shell-lesson”).
- 
+
+
+ [training resources](
  

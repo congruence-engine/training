@@ -35,7 +35,7 @@ You will need to have:
 The session assumes no prior knowledge of OpenRefine, and there are no prerequisite readings. However, you will need to have OpenRefine already installed on your machine before the session. Library Carpentry has instructions on how to do this and further resources here: https://librarycarpentry.org/lc-open-refine/setup.html (If you are running OpenRefine on a Mac please see "Note for Mac users" at the bottom of the page here for further advice on how to open it.)  
  
 
-## Command Line - Unix Shell session : 23rd November, 9-13pm, instructor:  Anna-Maria Sichani 
+## Command Line - Unix Shell session - 23rd November, 9-13pm, instructor:  Anna-Maria Sichani 
 
 The command line is a quick, powerful, text-based interface that allows you to effectively and efficiently interact with your computer to accomplish a huge set of tasks. As part of the Congruence Engine Data Cleaning training, this session hopes to introducethis session hopes to introduce the “Unix shell” which is the definitive example of a “command line interface” (for the Unix operating system and for Unix-like systems), with a guided Library Carpentry lesson(https://librarycarpentry.org/lc-shell/). This lesson will cover a small number of basic commands. By the end of the course you will able to explain why and how to use the command line; able to navigate through your file system and find directories and files; open them, perform basic data manipulation tasks such as combining and copying files, as well as both reading them and making relatively simple edits like counting. These commands constitute the building blocks upon which more complex commands can be constructed to fit your research data or project.
 

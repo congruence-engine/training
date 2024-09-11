@@ -14,8 +14,7 @@ You will need to have:
  
 There will be hands-on group exercises and you may find having a large screen or an additional screen or device useful, to be able to see both the Zoom and web browser windows at the same time, but this is not a requirement.
  
-CE training teaser session_01_data cleaning&structuring-20220928_111146-Meeting Recording.mp4
-https://uolonline-my.sharepoint.com/:v:/r/personal/kunika_kono_sas_ac_uk/Documents/Recordings/CE%20training%20teaser%20session_01_data%20cleaning%26structuring-20220928_111146-Meeting%20Recording.mp4?csf=1&web=1&e=fHdeJb
+<a href="https://uolonline-my.sharepoint.com/:v:/r/personal/kunika_kono_sas_ac_uk/Documents/Recordings/CE%20training%20teaser%20session_01_data%20cleaning%26structuring-20220928_111146-Meeting%20Recording.mp4?csf=1&web=1&e=fHdeJb"> recorded session </a> 
 
  
  
@@ -54,5 +53,5 @@ The session assumes no prior knowledge of Command line and there are no prerequi
 To complete this session, you will need a UNIX-like shell environment -see Setup. You will also need to download the file shell-lesson.zip from GitHub to your desktop and extract it there (once you have unzipped/extracted the file, you should end up with a folder called “shell-lesson”).
 
 
- [training resources](
+- <a href="https://github.com/congruence-engine/training/blob/main/resources/CommandLine_UnixShell.pdf">teaching resources </a>
  
